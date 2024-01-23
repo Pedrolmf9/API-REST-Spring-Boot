@@ -13,7 +13,8 @@ Um pequeno sistema (API REST) de usuários e departamentos, com os seguintes cas
 - Buscar todos usuários
 - Buscar um usuário pelo seu id
 - Inserir um novo usuário
- ![dominio](https://github.com/Pedrolmf9/API-REST-Spring-Boot/assets/75872844/094c61f5-f8fe-4b01-b2e7-b011618a119d)
+
+![dominio](https://github.com/Pedrolmf9/API-REST-Spring-Boot/assets/75872844/094c61f5-f8fe-4b01-b2e7-b011618a119d)
 ### Modelo relacional -> objeto -> json
 ![objetos](https://github.com/Pedrolmf9/API-REST-Spring-Boot/assets/75872844/bc64dadd-9754-4283-8134-1012da175829)
 
